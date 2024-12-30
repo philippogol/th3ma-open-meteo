@@ -1,0 +1,19 @@
+{
+    "name": "philippogol/threema-assessment-philippo-surber",
+    "description": "Threema assessment by Philippo Surber.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Philippo Surber",
+            "email": "philippo.surber@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
